@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**Konnad/konnad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Bachelor of Business Information Technology student
 
-Here are some ideas to get you started:
+🌐 Some experience with frontend and backend development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💾 Proficient in MySQL and MongoDB databases
+
+🐧 Passionate about Linux and Red Hat systems
+
+🚀 Always looking to learn and improve my skills
+
+📫 How to reach me: AA4110@student.jamk.fi
+
+I am a driven and passionate developer with a strong interest in business technology. I am dedicated to continuously learning and improving my skills in order to achieve my career goals.
