@@ -1,15 +1,41 @@
 ### Hi there 👋
 
-🎓 Bachelor of Business Information Technology student
+✨ **About Me**  
+I am a Bachelor of Business Information Technology student with a passion for creating impactful solutions using data and technology. Currently, I am an intern at a large international company in Europe, where I focus on improving the accessibility and usability of managerial reports. My work involves transitioning from high-level overviews to detailed, actionable insights, enabling managers to make data-driven decisions more effectively on a daily basis.
 
-🌐 Some experience with frontend and backend development
+---
 
-💾 Proficient in MySQL and MongoDB databases
+⚡ **What I’m Working On**  
 
-🐧 Passionate about Linux and Red Hat systems
+- Developing Power BI reports that provide managers with real-time, actionable data.  
+- Creating intuitive, informative dashboards that bridge the gap between data and decision-making.  
 
-🚀 Always looking to learn and improve my skills
+---
 
-📫 How to reach me: AA4110@student.jamk.fi
+🔧 **Skills & Technologies**  
 
-I am a driven and passionate developer with a strong interest in business technology. I am dedicated to continuously learning and improving my skills in order to achieve my career goals.
+- **Databases:** MongoDB, MySQL  
+- **Data Visualization:** Power BI, Excel  
+- **Programming:** Python, JavaScript, TypeScript  
+- **Development:** Basic frontend and backend experience  
+
+---
+
+🌐 **Looking For**  
+I aspire to work in roles that let me:  
+
+- Dive deeper into database management, with a preference for MongoDB but also strong proficiency in MySQL.  
+- Leverage Power BI to turn raw data into actionable insights.  
+
+---
+
+📚 **Education**  
+Bachelor’s in Business Information Technology  
+
+---
+
+📧 **Let’s Connect**  
+
+- **Email:** [jannematela@gmail.com](mailto:jannematela@gmail.com)  
+- [GitHub](#)  
+- [LinkedIn](https://www.linkedin.com/in/janne-matela/)  
